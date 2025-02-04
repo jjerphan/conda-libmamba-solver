@@ -8,7 +8,6 @@ conda/conda:
 
 conda/infrastructure:
   # [required] general workflows
-  - .github/workflows/cla.yml
   - .github/workflows/update.yml
 
   # [optional] to include repo in https://github.com/orgs/conda/projects/2
